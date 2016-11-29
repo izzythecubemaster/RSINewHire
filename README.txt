@@ -1,29 +1,17 @@
-Helios by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+RSI New Hire page, using Helios theme by HTML5 UP - html5up.net | @ajlkn
+Israel Montoya - israel.montoya@ruralsourcing.com
+Eduardo Vasquez - eduardo.vasquez@ruralsourcing.com
 
-
-This is Helios, a brand new site template for HTML5 UP. It's clean, modern, and designed
+This is the RSI New Hire page, a brand new addition to the RSI website that provides peace
+of mind to new RSI employees and interns. It's clean, modern, and designed
 to take advantage of larger (well, wider) displays while still being capable of gracefully
-scaling down to fit all manner of smaller ones.
+scaling down to fit all manner of smaller ones. It also runs in fast pure HTML5 with no
+additional plugins or addons to keep the loading times fast, and the resources used low.
 
-Demo images* courtesy of Michael Domaradzki, an awesome photographer I met over at
-deviantART. Check out his portfolio here:
+Israel Montoya
+israel.montoya@ruralsourcing.com | izzythecubemaster
 
-http://md.photomerchant.net/
-
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Michaels's work without his explicit permission!)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Michael Domaradzki (md.photomerchant.net)
-
+Outside assets used:
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
 
